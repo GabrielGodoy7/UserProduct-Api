@@ -1,0 +1,37 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Serjão Berranteiro",
+      "email": "serjao@berranteiro.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "nome": "Pedra Pedroca",
+      "email": "pedra@pedroca.com",
+      "senha": "654321"
+    },
+    {
+      "nome": "a",
+      "email": "a",
+      "senha": "a",
+      "id": 3
+    },
+    {
+      "nome": "a",
+      "email": "a",
+      "senha": "a",
+      "id": 4
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Clipes",
+      "descricao": "de pepel, tamanho japonês",
+      "validade": "2024-12-31",
+      "valor": 15.69
+    }
+  ]
+}
