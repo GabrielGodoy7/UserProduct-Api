@@ -2,36 +2,44 @@
   "usuarios": [
     {
       "id": 1,
-      "nome": "Serjão Berranteiro",
-      "email": "serjao@berranteiro.com",
+      "nome": "Heisenberg",
+      "email": "walterwhite@lospolos.com",
       "senha": "123456"
     },
     {
       "id": 2,
-      "nome": "Pedra Pedroca",
-      "email": "pedra@pedroca.com",
+      "nome": "Homem Rosa",
+      "email": "jessiepinkman@lospolos.com",
       "senha": "654321"
     },
     {
-      "nome": "a",
-      "email": "a",
-      "senha": "a",
-      "id": 3
-    },
-    {
-      "nome": "a",
-      "email": "a",
-      "senha": "a",
-      "id": 4
+      "id": 3,
+      "nome": "Gus Fring",
+      "email": "gustavofring@lospolos.com",
+      "senha": "senha123"
     }
   ],
   "produtos": [
     {
       "id": 1,
-      "nome": "Clipes",
-      "descricao": "de pepel, tamanho japonês",
+      "nome": "Los Pollos Hermanos Chicken Bucket",
+      "descricao": "Balde de frango frito do restaurante Los Pollos Hermanos",
+      "validade": "2023-10-02",
+      "valor": 40
+    },
+    {
+      "id": 2,
+      "nome": "Heisenberg's Blue Meth Candy",
+      "descricao": "Doce cristalizado azul inspirado no Blue Sky de Heisenberg",
       "validade": "2024-12-31",
-      "valor": 15.69
+      "valor": 9.99
+    },
+    {
+      "id": 3,
+      "nome": "Pizza no Telhado de Walter White",
+      "descricao": "Uma pizza clássica que Walter White jogou no telhado. Perfeita para compartilhar com amigos.",
+      "validade": "2034-09-31",
+      "valor": 35
     }
   ]
 }
